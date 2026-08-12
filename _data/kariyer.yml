@@ -1,0 +1,31 @@
+# items: Kariyer sayfasındaki her kart bir görev dönemini temsil eder, en yeniden en eskiye.
+items:
+  - title: Yenilenebilir Enerji Teknolojileri Alan Şefi
+    kurum: Aydın Mimar Sinan Mesleki ve Teknik Anadolu Teknik Lisesi
+    date: 2013 - Günümüz
+    in_progress: true
+    body: Okulun Yenilenebilir Enerji Teknolojileri alanının şefliğini yürütüyor.
+
+  - title: Elektronik Öğretmeni
+    kurum: Aydın Mimar Sinan Mesleki ve Teknik Anadolu Teknik Lisesi
+    date: "2010 - 2013"
+    in_progress: false
+    body: Elektronik dersleri verdi.
+
+  - title: Bilişim Teknolojileri Kurucu Şefi
+    kurum: Niğde Faik Şahenk Anadolu Teknik Lisesi
+    date: "2008 - 2010"
+    in_progress: false
+    body: Okulun Bilişim Teknolojileri alanını kurdu ve şefliğini yürüttü.
+
+  - title: Elektronik Öğretmeni
+    kurum: Niğde Faik Şahenk Anadolu Teknik Lisesi
+    date: "2001 - 2008"
+    in_progress: false
+    body: Elektronik dersleri verdi.
+
+  - title: Elektronik Öğretmeni
+    kurum: İstanbul Beykoz Şahinkaya Endüstri Meslek Lisesi
+    date: "1999 - 2001"
+    in_progress: false
+    body: Elektronik öğretmenliğine bu okulda başladı.

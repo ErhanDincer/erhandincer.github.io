@@ -1,0 +1,11 @@
+title: Erhan Dinçer
+description: Elektronik ve yenilenebilir enerji teknolojileri öğretmeni.
+url: "https://KULLANICI-ADIN.github.io"
+
+markdown: kramdown
+permalink: /:categories/:title/
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
