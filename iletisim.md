@@ -10,7 +10,7 @@ permalink: /iletisim/
 <p class="entry-body">Yet Aydın'daki bir ilana yanıt vermek ya da genel olarak iletişime geçmek isterseniz, aşağıdaki formu kullanabilirsiniz.</p>
 
 <div class="contact">
-  <form action="https://formspree.io/f/xoeawllg" method="POST">
+  <form action="https://formspree.io/f/xwlenpgl" method="POST">
     <input type="text" name="name" placeholder="Ad Soyad" required>
     <input type="email" name="email" placeholder="E-posta" required>
     <select name="konu" required>
